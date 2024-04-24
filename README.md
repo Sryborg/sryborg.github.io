@@ -1,2 +1,2 @@
-# sryborg.github.io
+# Susmit Yenkar
 I publish my latest learning here \m/
