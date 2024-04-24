@@ -1,4 +1,4 @@
-# Sryborg
+# Susmit's Digital Diaries
 
 - [Resume](#resume)
 - [Loved GITs](#loved-gits)
