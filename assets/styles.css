@@ -12,9 +12,16 @@ body {
 
 .sidebar {
     width: 30%;
-    background-color: #f8f9fa;
+    background-color: #2e6ca9;
     padding: 20px;
     box-sizing: border-box;
+    text-align: center; /* Center the profile photo */
+}
+
+.sidebar .profile-photo {
+    width: 80%;
+    border-radius: 50%;
+    margin-bottom: 3%; /* Space between the photo and the title */
 }
 
 .sidebar h2 {
@@ -41,6 +48,6 @@ body {
 
 .content {
     width: 70%;
-    padding: 5%; /* Added padding to move the content to the right */
+    padding: 5%;
     box-sizing: border-box;
 }

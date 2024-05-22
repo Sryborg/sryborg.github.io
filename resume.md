@@ -76,7 +76,6 @@ title: Resume
     - [GoLang Based APIs]()
     - [Fun with Message Queues - Gearman, Celery, Redis, RabbitMQ]()
 
-
 ## 💼 Work Experience
 
 **👩‍💻 R&D Engineer 4 - Cyber Security, VMware | Broadcom**  
