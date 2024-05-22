@@ -28,7 +28,7 @@ body {
 }
 
 .sidebar h2 {
-    color: white;
+    color: aliceblue;
     text-align: center;
 }
 
@@ -42,12 +42,13 @@ body {
 }
 
 .sidebar ul li a {
-    color: white;
+    color: aliceblue;
     text-decoration: none;
 }
 
 .sidebar ul li a:hover {
     text-decoration: underline;
+    color: rgb(240, 240, 166);
 }
 
 .content {
