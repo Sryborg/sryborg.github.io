@@ -1,7 +1,7 @@
 # Susmit's Digital Diaries
 
 - [Resume](#resume)
-- [Loved GITs](#loved-gits)
+- [Awesome Repos](#awesome-repos)
 - [Papers](#papers)
 - [Cheat Sheets](#cheat-sheet)
 - [Connect](#connect)
