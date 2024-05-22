@@ -30,6 +30,7 @@ body {
 .sidebar h2 {
     color: aliceblue;
     text-align: center;
+    font-size: 4vw;
 }
 
 .sidebar ul {
@@ -39,6 +40,7 @@ body {
 
 .sidebar ul li {
     margin: 10px 0;
+    font-size: 3vw;
 }
 
 .sidebar ul li a {
@@ -56,9 +58,18 @@ body {
     padding: 5%;
     box-sizing: border-box;
     overflow-y: auto; /* Allow scrolling if content overflows */
-    color: #623d72;
+    /* color: #623d72; */
 }
 
 .resume-page h2 {
     color: #623d72;
+}
+
+@media screen and (max-width: 768px) {
+    .sidebar h2 {
+        font-size: 6vw; /* Adjust h2 font size for smaller screens */
+    }
+    .sidebar ul li {
+        font-size: 5vw; /* Adjust list item font size for smaller screens */
+    }
 }
