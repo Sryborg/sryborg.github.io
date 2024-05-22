@@ -5,15 +5,13 @@ title: Resume
 
 # Resume
 
-# Susmit's Digital Diaries
-
 ## 📚 Education
 
 **🎓 M. Tech, Data Science and Engineering**
 
 *BITS Pillani | Apr 2022 - Mar 2024*  
 - Solidified knowledge in data science  
-- Preparing for Ph.D. research.
+- Got "Excellent" in Final Semester Dissertation
 
 **🎓 IPBA**  
 *IIM Indore | Jun 2019 - May 2020*  
@@ -73,9 +71,11 @@ title: Resume
 
 **👩‍💻 R&D Engineer 4 - Cyber Security, VMware | Broadcom**  
 *Mar 2022 - Present*
+- CyberSecurity Data Scientist 
 - Built a Fast File Reputation System using Hac-t Clustering, Similarity and ANN Modelling.
 - Worked on Vulnerability feeds using NER and NLP, Saved $4 Million.
-- Fixed memory leaks and TNULL issue in TLSH.
+- Worked with various LSH techniques like ssdeep, sdhash, TLSH etc 
+- Fixed memory leaks in TLSH and TNULL issue in TLSH. (Merged in official repo)
 - Alert classification based on commandline clustering using TLSH and anamoly detection. 
 
 **👩‍🏫 Data Science and Analytics Trainer, CDAC**  
