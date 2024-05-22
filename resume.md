@@ -11,7 +11,7 @@ title: Resume
 
 *BITS Pillani | Apr 2022 - Mar 2024*  
 - Solidified knowledge in data science  
-- Got "Excellent" in Final Semester Dissertation
+- Scored "Excellent" Grade in Final Semester
 
 **🎓 IPBA**  
 *IIM Indore | Jun 2019 - May 2020*  
@@ -32,8 +32,20 @@ title: Resume
 - Celebrating Performance Award, Accenture, 2016
 
 ## 📝 Patents & Publications
-- [On the Role of Similarity in Detecting Masquerading Files](https://arxiv.org/abs/2402.11227)
+- Paper: [On the Role of Similarity in Detecting Masquerading Files](https://arxiv.org/abs/2402.11227)
 
+## 🚀 Skills & Expertise**
+
+- **Languages**: Python, Java, R, Rust, GoLang
+- **Data Engineering**: Apache Flink, Apache Kafka, Apache Airflow
+- **Machine Learning**: Scikit-learn, Scipy, TensorFlow, PyTorch, Keras, XGBoost, LightGBM, CatBoost, H2O.ai
+- **Databases**: Neo4j, MongoDB, PostgreSQL, MySQL
+- **Cloud Platforms**: AWS, Azure, Google Cloud Platform
+- **Tools & Technologies**: Docker, Kubernetes, Git, Jenkins, Apache Spark
+- **Web Development**: Flask, Django, Spring Boot
+- **NLP & Text Processing**: NLTK, spaCy, Transformers
+- **Data Visualization**: Matplotlib, Seaborn, Tableau
+- **Big Data Technologies**: Hadoop, Hive, HBase
 
 ## 🛠️ Projects
 
@@ -86,11 +98,11 @@ title: Resume
 
 *Feb 2019 - Feb 2022*
 - 3 Promotions in 3 Years
+- Built variet of 
 - Led a team of 7 Data Scientist and Data Engineers
 - Built entire Data Engineering from ground up
 - Handeled ETL & Streaming data
-- Kept costs constant inspite of increasing number of users and data  
-- 
+- Kept costs constant inspite of increasing number of users and data volume 
 - Engaged with Agrostar's rural India focus  
 
 **🤖 Team Lead AI/NLP, E42.ai | Light.ai**
@@ -107,3 +119,4 @@ title: Resume
 - Banking Android App development
 - UI changes for Banking Android App  
 - Trained in SQL and AngularJS
+

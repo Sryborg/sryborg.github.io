@@ -5,4 +5,4 @@ title: Home
 
 # Home
 
-Welcome to Susmit's Digital Diaries!
+Welcome to Susmit's Digital Diary!
