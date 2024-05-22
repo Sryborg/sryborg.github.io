@@ -23,6 +23,9 @@ title: Resume
 - Robotics and microcontroller programming  
 - Learned C, C++, HTML and assembly language programming
 
+## 📝 Patents & Publications
+- Paper: [On the Role of Similarity in Detecting Masquerading Files](https://arxiv.org/abs/2402.11227)
+
 ## 🏆 Achievements & Awards
 - Elevate Our Best Award, VMWare, 2022
 - Recognition Award, Agrostar, 2021
@@ -31,21 +34,16 @@ title: Resume
 - ACE Award, Accenture, 2017
 - Celebrating Performance Award, Accenture, 2016
 
-## 📝 Patents & Publications
-- Paper: [On the Role of Similarity in Detecting Masquerading Files](https://arxiv.org/abs/2402.11227)
-
 ## 🚀 Skills & Expertise**
-
 - **Languages**: Python, Java, R, Rust, GoLang
 - **Data Engineering**: Apache Flink, Apache Kafka, Apache Airflow
-- **Machine Learning**: Scikit-learn, Scipy, TensorFlow, PyTorch, Keras, XGBoost, LightGBM, CatBoost, H2O.ai
-- **Databases**: Neo4j, MongoDB, PostgreSQL, MySQL
-- **Cloud Platforms**: AWS, Azure, Google Cloud Platform
-- **Tools & Technologies**: Docker, Kubernetes, Git, Jenkins, Apache Spark
+- **Machine Learning**: Scikit-learn, Scipy, TensorFlow, PyTorch, Keras, XGBoost, LightGBM
+- **Databases**: PostgreSQL, MySQL, Neo4j, MongoDB 
+- **Cloud Platforms**: AWS, GCP
+- **Tools & Technologies**: Docker, Kubernetes, Git, Jenkins
 - **Web Development**: Flask, Django, Spring Boot
-- **NLP & Text Processing**: NLTK, spaCy, Transformers
-- **Data Visualization**: Matplotlib, Seaborn, Tableau
-- **Big Data Technologies**: Hadoop, Hive, HBase
+- **NLP & Text Processing**: NLTK, spaCy, Transformers, Gensim
+- **Data Visualization**: Matplotlib, Seaborn, Google Data Studio
 
 ## 🛠️ Projects
 
