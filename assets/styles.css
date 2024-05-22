@@ -29,7 +29,6 @@ body {
 
 .sidebar h2 {
     text-align: center;
-
 }
 
 .sidebar ul {
@@ -42,7 +41,7 @@ body {
 }
 
 .sidebar ul li a {
-    color: rgb(0, 0, 0);
+    color: white;
     text-decoration: none;
 }
 
@@ -55,6 +54,7 @@ body {
     padding: 5%;
     box-sizing: border-box;
     overflow-y: auto; /* Allow scrolling if content overflows */
+    color: #623d72;
 }
 
 .resume-page h2 {
