@@ -95,15 +95,14 @@ title: Resume
 
 *Feb 2019 - Feb 2022*
 - 3 Promotions in 3 Years
-- Built variet of 
+- Built variet of Data Science model to solve agri-tech problems
 - Led a team of 7 Data Scientist and Data Engineers
 - Built entire Data Engineering from ground up
 - Handeled ETL & Streaming data
 - Kept costs constant inspite of increasing number of users and data volume 
-- Engaged with Agrostar's rural India focus  
+- Engaged with Agrostar's rural India focus
 
 **🤖 Team Lead AI/NLP, E42.ai | Light.ai**
-
 *Sept 2017 - Feb 2021*
 - Focused on Developing AI Bots using NLP, State Machines and 
 - Managed and Developed projects for Mondelez, Oyo Rooms, PNB Metlife  

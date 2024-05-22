@@ -13,7 +13,7 @@ body {
 }
 
 .sidebar {
-    width: 25%; /* Make the sidebar narrower */
+    width: 23%; /* Make the sidebar narrower */
     background-color: #623d72;
     padding: 20px;
     box-sizing: border-box;
@@ -22,13 +22,14 @@ body {
 }
 
 .sidebar .profile-photo {
-    width: 80%;
+    width: 70%;
     border-radius: 50%; /* Make the image circular */
     margin-bottom: 20px; /* Space between the photo and the title */
 }
 
 .sidebar h2 {
     text-align: center;
+
 }
 
 .sidebar ul {
@@ -54,4 +55,8 @@ body {
     padding: 5%;
     box-sizing: border-box;
     overflow-y: auto; /* Allow scrolling if content overflows */
+}
+
+.resume-page h2 {
+    color: #623d72;
 }
