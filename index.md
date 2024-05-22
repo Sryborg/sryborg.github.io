@@ -5,4 +5,4 @@ title: Home
 
 # Home
 
-Welcome to Susmit's Tech Tales!
+Welcome to Susmit's Tech Journal!

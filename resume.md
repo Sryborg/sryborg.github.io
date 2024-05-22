@@ -34,7 +34,7 @@ title: Resume
 - ACE Award, Accenture, 2017
 - Celebrating Performance Award, Accenture, 2016
 
-## 🚀 Skills & Expertise**
+## 🚀 Skills & Expertise
 - **Languages**: Python, Java, R, Rust, GoLang
 - **Data Engineering**: Apache Flink, Apache Kafka, Apache Airflow
 - **Machine Learning**: Scikit-learn, Scipy, TensorFlow, PyTorch, Keras, XGBoost, LightGBM
